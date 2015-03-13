@@ -1,5 +1,5 @@
 # extjs
-Extjs Base Manager Frame
+Extjs Management Base Frame
 
 # fix
 Remove package: Build/examples
